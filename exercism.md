@@ -10,4 +10,4 @@
 1.	[protein-translation](https://exercism.org/tracks/python/exercises/protein-translation/solutions/danieldeitch1) (easy, 3 iterations, mentor: simisc)
 1.	[sum-of-multiples](https://exercism.org/tracks/python/exercises/sum-of-multiples/solutions/danieldeitch1) (easy, 2 iterations, mentor: IsaacG)
 
-<div style="text-align: right"> <p>Back to <a href='https://danieldeitch1.github.io/'>Home page<a/></p></div>
+<div style="text-align: right">Back to <a href='https://danieldeitch1.github.io/'>Home page<a/>
