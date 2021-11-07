@@ -34,4 +34,4 @@
 
 [![NO IMAGE](https://img.youtube.com/vi/JANkLN1kKNg/0.jpg)](https://www.youtube.com/watch?v=JANkLN1kKNg)
 
-<div style="text-align: right"> <p>Back to <a href='https://danieldeitch1.github.io/'>Home page<a/></p></div>
+<div style="text-align: right"> Back to <a href='https://danieldeitch1.github.io/'>Home page<a/>
