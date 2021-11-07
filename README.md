@@ -1,7 +1,7 @@
 # Welcome to Daniel's website
 
-## WIS python course daily news:
-### Lecture 3 - XXX
+## WIS python course notes:
+* Lecture 3 - XXX
 
 ## Exercism exercises:
 1.	[two-fer](https://exercism.org/tracks/python/exercises/two-fer/solutions/danieldeitch1) (easy, 4 iterations, mentor: IsaacG)
