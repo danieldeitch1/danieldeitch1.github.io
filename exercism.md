@@ -9,3 +9,5 @@
 1.	[difference-of-squares](https://exercism.org/tracks/python/exercises/difference-of-squares/solutions/danieldeitch1) (easy, 2 iteration, mentor: IsaacG)
 1.	[protein-translation](https://exercism.org/tracks/python/exercises/protein-translation/solutions/danieldeitch1) (easy, 3 iterations, mentor: simisc)
 1.	[sum-of-multiples](https://exercism.org/tracks/python/exercises/sum-of-multiples/solutions/danieldeitch1) (easy, 2 iterations, mentor: IsaacG)
+
+<div style="text-align: right"> Back to [Home page](https://danieldeitch1.github.io/)</div>
