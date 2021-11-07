@@ -1,6 +1,9 @@
-# Daniel's web page
+# Welcome to Daniel's website
 
-## exercism exercises
+## WIS python course daily news:
+### Lecture 3 - XXX
+
+## Exercism exercises:
 1.	[two-fer](https://exercism.org/tracks/python/exercises/two-fer/solutions/danieldeitch1) (easy, 4 iterations, mentor: IsaacG)
 1.	[raindrops](https://exercism.org/tracks/python/exercises/raindrops/solutions/danieldeitch1) (easy, 2 iterations, mentor: bobahop)
 1.	[hamming](https://exercism.org/tracks/python/exercises/hamming/solutions?criteria=danieldeitch1) (easy, 2 iterations, mentor: IsaacG)
