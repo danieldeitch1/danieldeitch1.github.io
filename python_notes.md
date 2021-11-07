@@ -3,4 +3,4 @@
 Will be uploaded after the lecture...
 
 
-<div style="text-align: right"> <p>Back to <a href='https://danieldeitch1.github.io/'>Home page<a/></p></div>
+<div style="text-align: right">Back to <a href='https://danieldeitch1.github.io/'>Home page<a/>
